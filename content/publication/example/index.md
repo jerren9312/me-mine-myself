@@ -39,7 +39,7 @@ url_video: ""
 title: Autonomous Model Update Scheme for Deep Learning Based Network Traffic
   Classifiers
 doi: 10.1109/GLOBECOM38437.2019.9014036
-featured: true
+featured: false
 tags: []
 projects: []
 image:
@@ -48,7 +48,7 @@ image:
   preview_only: false
 date: 2021-01-26T20:08:18.516Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
