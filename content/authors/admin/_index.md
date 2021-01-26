@@ -1,29 +1,28 @@
 ---
 title: Jielun Zhang
-role: Ph.D. Student of Electrical Engineering
+role: Ph.D. Student in Electrical Engineering
 avatar_filename: download.png
-bio: My research interests include traffic classification, Smart Network,
+bio: My research interests include traffic classification, Smart Networks,
   network security, and wireless communications.
 interests:
+  - Traffic Classification
+  - Smart Network
+  - Network Security
+  - Wireless Communications
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=HmrulSwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jerren9312
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jerrenz/
 organizations:
   - name: University of Dayton
     url: https://udayton.edu/
@@ -45,9 +44,6 @@ email: zhangj46@udayton.edu
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, I am Jielun (Jerren) Zhang, a Ph.D. student in Electrical Engineering. My research interests include traffic classification, Smart Networks, network security, and wireless communications. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
