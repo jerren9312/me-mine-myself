@@ -1,79 +1,56 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Network traffic classification is essential in access network for
+  end-to-end network management and measurement such as network intrusion
+  detection, network resource allocation. State-of-the-art Deep Learning based
+  classifiers have high accuracy even when processing encrypted data packets.
+  Such classifiers would need to be updated when a new application is in the
+  network traffic. However, it is challenging to build and label a dataset of
+  the unknown application from active network traffic. In this paper, we propose
+  an autonomous model update scheme to (i) filter the data packets of a new
+  application from active network traffic and build a corresponding training
+  dataset; and (ii) update the current network traffic classifier with transfer
+  learning. In particular, the core of the proposed scheme is a discriminator
+  that consists of a statistical filter and a convolutional neural network based
+  binary classifier to filter and build a dataset of new application packets
+  from active network traffic. Evaluation is conducted based on an open dataset
+  (i.e., ISCX VPN-nonVPN dataset). The results demonstrated that our proposed
+  autonomous classifier update scheme can successfully filter packets of a new
+  application from network traffic and build a corresponding training dataset.
+  Moreover, the packet classifier can be effectively updated through transfer
+  learning. The proposed update scheme can contribute significantly in the
+  access network for further end-to-end network measurement and management.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - admin
+  - Fuhao Li
+  - Hongyu Wu
+  - Feng Ye
+author_notes: []
+publication: In 2019 IEEE Global Communications Conference
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: 2019 IEEE GLOBECOM
+url_source: ""
+url_video: ""
+title: Autonomous Model Update Scheme for Deep Learning Based Network Traffic
+  Classifiers
+doi: 10.1109/GLOBECOM38437.2019.9014036
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2021-01-26T20:08:18.516Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
