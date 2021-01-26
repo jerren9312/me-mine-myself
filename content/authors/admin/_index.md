@@ -21,8 +21,6 @@ social:
 organizations:
   - name: University of Dayton
     url: https://udayton.edu/
-education:
-  courses: []
 email: zhangj46@udayton.edu
 superuser: true
 highlight_name: false
