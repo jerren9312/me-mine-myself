@@ -43,7 +43,7 @@ featured: false
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2021-01-26T20:08:18.516Z
