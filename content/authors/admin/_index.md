@@ -29,16 +29,19 @@ organizations:
     url: https://udayton.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Electrical Engineering
+      institution: University of Dayton
+      year: 2022
+    - course: MSc in Electrical Engineering
+      institution: University of Dayton
+      year: 2018
+    - course: BSc in Engineering Technology
+      institution: " University of Dayton"
+      year: 2016
+    - course: BSc in Electrical Engineering
+      institution: Shanghai Normal University
+      year: 2016
+email: zhangj46@udayton.edu
 superuser: true
 highlight_name: false
 ---
