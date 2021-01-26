@@ -4,12 +4,7 @@ role: Ph.D. Student in Electrical Engineering
 avatar_filename: download.png
 bio: My research interests include traffic classification, Smart Networks,
   network security, and wireless communications.
-interests:
-  - Traffic Classification
-  - Smart Network
-  - Network Security
-  - Wireless Communications
-  - Artificial Intelligence
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +22,7 @@ organizations:
   - name: University of Dayton
     url: https://udayton.edu/
 education:
-  courses:
-    - course: PhD in Electrical Engineering
-      institution: University of Dayton
-      year: 2022
-    - course: MSc in Electrical Engineering
-      institution: University of Dayton
-      year: 2018
-    - course: BSc in Engineering Technology
-      institution: " University of Dayton"
-      year: 2016
-    - course: BSc in Electrical Engineering
-      institution: Shanghai Normal University
-      year: 2016
+  courses: []
 email: zhangj46@udayton.edu
 superuser: true
 highlight_name: false
