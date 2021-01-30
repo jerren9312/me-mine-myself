@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Photography
 - description: Traveled to 12 countries/regions
-  icon: plane-departure
+  icon: plane
   icon_pack: fas
   name: Traveling
 - description: Built 1.2kW solar panel array w/ 12kWh battery storage
