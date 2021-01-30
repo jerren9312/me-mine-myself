@@ -16,22 +16,36 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Handle black (diamond) slopes moderately
-  icon: skiing
+
+- description: Exploring state-of-the-art Machine/Deep Learning models
+  icon: robot
   icon_pack: fas
-  name: Skiing
-- description: Capture every little moments in my life
-  icon: camera-retro
+  name: Artificial Intelligence
+  
+- description: Raspberry Pi/Arduino projects
+  icon: microchip
   icon_pack: fas
-  name: Photography
-- description: Traveled to 12 countries/regions
-  icon: plane
-  icon_pack: fas
-  name: Traveling
+  name: Electronics
+  
 - description: Built 1.2kW solar panel array w/ 12kWh battery storage
   icon: solar-panel
   icon_pack: fas
   name: Solar Projects
+
+- description: Handle black (diamond) slopes moderately
+  icon: skiing
+  icon_pack: fas
+  name: Skiing
+  
+- description: Capture every little moments in my life
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
+  
+- description: Traveled to 12 countries/regions
+  icon: plane
+  icon_pack: fas
+  name: Traveling
 
   
 # Uncomment to use emoji icons.
