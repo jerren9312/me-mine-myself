@@ -30,7 +30,7 @@ item:
   organization: University of Dayton
   organization_url: https://udayton.edu
   title: Graduate Student Summer Fellowship (GSSF 2019)
-  url: ""
+  url: "https://ecommons.udayton.edu/stander_posters/1843/"
 - certificate_url: https://ecommons.udayton.edu/stander_posters/1532/
   date_end: ""
   date_start: "2018-04-01"
