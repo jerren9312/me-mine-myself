@@ -50,4 +50,21 @@ item:
   title: 'Graduated with Summa Cum Laude'
   url: "https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf"
   
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-05-01"
+  description: ""
+  organization: University of Dayton
+  organization_url: ""
+  title: 'Graduated with Summa Cum Laude'
+  url: "https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf"
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-05-01"
+  description: ""
+  organization: University of Dayton
+  organization_url: ""
+  title: 'Graduated with Summa Cum Laude'
+  url: "https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf"
 ---
