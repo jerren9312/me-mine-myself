@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   company_url = "http://www.shnu.edu.cn/"
   location = "Shanghai, China"
   date_start = "2012-09-01"
-  date_end = "2016-07-01"
+  date_end = "2016-07-04"
   description = """
   """
  
