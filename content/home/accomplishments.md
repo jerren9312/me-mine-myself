@@ -28,7 +28,7 @@ item:
   date_start: "2019-04-01"
   description: A Learning-based Framework for Packet Classification and Network Traffic Flow Clustering in SDN Access Gateways
   organization: University of Dayton
-  organization_url: https://udayton.edu
+  organization_url: ""
   title: Graduate Student Summer Fellowship (GSSF 2019)
   url: "https://ecommons.udayton.edu/stander_posters/1843/"
 - certificate_url: https://ecommons.udayton.edu/stander_posters/1532/
@@ -36,7 +36,7 @@ item:
   date_start: "2018-04-01"
   description: Establish Reliable and Energy Efficient Public Safety Communication Networks using Future Smart Infrastructure
   organization: University of Dayton
-  organization_url: https://udayton.edu
+  organization_url: ""
   title: Graduate Student Summer Fellowship (GSSF 2018)
   url: https://udayton.edu
 - certificate_url: https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf
@@ -44,8 +44,23 @@ item:
   date_start: "2016-05-01"
   description: ""
   organization: University of Dayton
-  organization_url: https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf
+  organization_url: ""
   title: 'Graduated with Summa Cum Laude'
   url: ""
-  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-06-16"
+  description: ""
+  organization: University of Dayton
+  organization_url: ""
+  title: 'Named to Spring 2016 Dean's List'
+  url: https://meritpages.com/jielun
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-01-15"
+  description: ""
+  organization: University of Dayton
+  organization_url: ""
+  title: 'Named to Fall 2015 Dean's List'
+  url: https://meritpages.com/jielun 
 ---
