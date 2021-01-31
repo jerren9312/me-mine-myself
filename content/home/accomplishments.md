@@ -25,26 +25,26 @@ date_format: Jan 2006
 item:
 - certificate_url: https://udayton.edu
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
+  date_start: "2019-04-01"
+  description: A Learning-based Framework for Packet Classification and Network Traffic Flow Clustering in SDN Access Gateways
+  organization: University of Dayton
   organization_url: https://udayton.edu
-  title: Neural Networks and Deep Learning
+  title: Graduate Student Summer Fellowship 2019
   url: ""
 - certificate_url: https://udayton.edu
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  date_start: "2018-04-01"
+  description: Establish Reliable and Energy Efficient Public Safety Communication Networks using Future Smart Infrastructure
+  organization: University of Dayton
   organization_url: https://udayton.edu
-  title: Blockchain Fundamentals
+  title: Graduate Student Summer Fellowship 2018
   url: https://udayton.edu
-- certificate_url: https://udayton.edu
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+- certificate_url: https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf
+  date_end: ""
+  date_start: "2016-05-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://udayton.edu
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: University of Dayton
+  organization_url: https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf
+  title: 'Graduated with Summa Cum Laude'
   url: ""
 ---
