@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Contact
+title: Contact Me
 subtitle: Feel free to say something to me. This function actually works.
 
 content:
