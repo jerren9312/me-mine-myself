@@ -1,25 +1,25 @@
 +++
 # Display name
-name = "Xinyu You"
+name = "Jielun Zhang"
 
 # Username (this should match the folder name)
-authors = ["XinyuYou"]
+authors = ["JielunZhang"]
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Postgraduate Student of Computer Science"
+role = "Ph.D. Student in Electrical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 #organizations = [ { name = "National University of Defense Technology", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "To create, to experience."
+bio = "Stay foolish, stay hungry."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "youxinyu07@gmail.com"
+email = "jielunzhang1@gmail.com"
 
 # List (academic) interests or hobbies
 #interests = [
