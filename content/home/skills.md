@@ -47,10 +47,6 @@ feature:
   icon_pack: fas
   name: Traveling
 
-- description: Traveled to 12 countries/regions
-  icon: plane
-  icon_pack: fas
-  name: Traveling
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
