@@ -38,6 +38,7 @@ date_format = "Jan 2006"
   date_end = "2018-08-01"
   description = """
   * Cumulative GPA: 4.0
+  * Thesis: Application-Aware Traffic Prediction and User-Aware Quality-of-Experience Measurement in Smart Network
   """
   
 [[experience]]
