@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Contact
-subtitle:
+subtitle: Feel free to say something to me. This function actually works.
 
 content:
   form:
