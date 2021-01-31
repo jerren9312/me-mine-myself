@@ -4,6 +4,10 @@ authors:
   - JielunZhang
 title: Jielun Zhang
 role: Ph.D. Student in Electrical Engineering
+organizations:
+- name: University of Dayton
+  url: https://udayton.edu
+
 bio: Stay foolish, stay hungry.
 user_groups:
   - Researchers
