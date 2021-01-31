@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-04-01"
-  description: A Learning-based Framework for Packet Classification and Network Traffic Flow Clustering in SDN Access Gateways
+  description: Granted proposal: A Learning-based Framework for Packet Classification and Network Traffic Flow Clustering in SDN Access Gateways
   organization: University of Dayton
   organization_url: ""
   title: Graduate Student Summer Fellowship (GSSF 2019)
@@ -35,7 +35,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2018-04-01"
-  description: Establish Reliable and Energy Efficient Public Safety Communication Networks using Future Smart Infrastructure
+  description: Granted proposal: Establish Reliable and Energy Efficient Public Safety Communication Networks using Future Smart Infrastructure
   organization: University of Dayton
   organization_url: ""
   title: Graduate Student Summer Fellowship (GSSF 2018)
