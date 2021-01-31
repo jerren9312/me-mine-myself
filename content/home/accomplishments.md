@@ -50,21 +50,4 @@ item:
   title: 'Graduated with Summa Cum Laude'
   url: "https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf"
   
-- certificate_url: ""
-  date_end: ""
-  date_start: "2016-06-16"
-  description: ""
-  organization: University of Dayton
-  organization_url: ""
-  title: 'Named to Spring 2016 Dean's List'
-  url: "https://meritpages.com/jielun"
-  
-- certificate_url: ""
-  date_end: ""
-  date_start: "2016-01-15"
-  description: ""
-  organization: University of Dayton
-  organization_url: ""
-  title: 'Named to Fall 2015 Dean's List'
-  url: "https://meritpages.com/jielun"
 ---
