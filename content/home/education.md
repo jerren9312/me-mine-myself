@@ -39,6 +39,7 @@ date_format = "Jan 2006"
   description = """
   * Cumulative GPA: 4.0
   * Thesis: Application-Aware Traffic Prediction and User-Aware Quality-of-Experience Measurement in Smart Network
+  * Advanced Communications Network and Security (ACNS) Lab
   """
   
 [[experience]]
