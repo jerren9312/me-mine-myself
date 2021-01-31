@@ -1,7 +1,7 @@
 ---
 title: Jielun Zhang
 role: Ph.D. Student in Electrical Engineering
-avatar_filename: "avatar.jpg"
+avatar_filename: avatar.jpg
 bio: My research interests include traffic classification, Smart Networks,
   network security, and wireless communications.
 interests: []
@@ -27,6 +27,6 @@ highlight_name: false
 ---
 Hi, I am Jielun (Jerren) Zhang, a Ph.D. student in Electrical Engineering. My research interests include traffic classification, Smart Networks, network security, and wireless communications. 
 
-This site is still under construction.
+This site is still under construction...
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
