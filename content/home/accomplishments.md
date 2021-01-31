@@ -56,7 +56,7 @@ item:
   description: ""
   organization: University of Dayton
   organization_url: ""
-  title: 'Named to Spring 2016 Dean's list'
+  title: 'Named to Spring 2016 Dean`s list'
   url: "https://meritpages.com/jielun"
 
 - certificate_url: ""
@@ -65,6 +65,6 @@ item:
   description: ""
   organization: University of Dayton
   organization_url: ""
-  title: 'Named to Fall 2015 Dean's list'
+  title: 'Named to Fall 2015 Dean`s list'
   url: "https://meritpages.com/jielun"
 ---
