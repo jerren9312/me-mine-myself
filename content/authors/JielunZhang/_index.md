@@ -19,6 +19,7 @@ social:
 email: jielunzhang1@gmail.com
 ---
 
-Hi, I am Jielun (Jerren) Zhang, a Ph.D. student in Electrical Engineering. My research interests include traffic classification, Smart Networks, network security, and wireless communications.
+Hi, I am Jielun (Jerren) Zhang, a Ph.D. student in Electrical Engineering. My advisor is <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>, who also is the director of the Advanced Communications Network and Security (ACNS) Lab (<ins>[visit our lab](https://sites.google.com/a/udayton.edu/fye001)</ins>) I affiliate with. My research interests include traffic classification, Smart Networks, network security, and wireless communications.
 
 This site is still under construction...
+Last update @ 1/31/2021
