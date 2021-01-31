@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = "2018-08-01"
   description = """
   * Cumulative GPA: 4.0
-  * Thesis (Advised by [Dr. Feng Ye](https://sites.google.com/a/udayton.edu/fye001)): Application-Aware Traffic Prediction and User-Aware Quality-of-Experience Measurement in Smart Network
+  * Thesis (Advised by <ins>[Dr. Feng Ye](https://sites.google.com/a/udayton.edu/fye001)</ins>): Application-Aware Traffic Prediction and User-Aware Quality-of-Experience Measurement in Smart Network
   * Advanced Communications Network and Security (ACNS) Lab
   """
   
