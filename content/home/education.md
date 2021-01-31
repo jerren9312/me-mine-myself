@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2015-07-01"
   date_end = "2016-05-01"
   description = """
-  * Honors: Summa cum laude
+  * Honors: Summa Cum Laude
   * Cumulative GPA: 3.95
   * Named to dean's list: Fall 2015, Spring 2016
   """
