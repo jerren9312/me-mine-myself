@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "University of Dayton"
-  company = "Ph.D. in Electrical Engineering"
+  title = "Ph.D. in Electrical Engineering"
+  company = "University of Dayton"
   company_url = ""
   location = "Dayton, OH, USA"
   date_start = "2018-08-24"
@@ -30,8 +30,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "University of Dayton"
-  company = "M.S. in Electrical Engineering"
+  title = "M.S. in Electrical Engineering"
+  company = "University of Dayton"
   company_url = ""
   location = "Dayton, OH, USA"
   date_start = "2016-08-24"
@@ -41,8 +41,8 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "University of Dayton"
-  company = "B.S. in Electronic and Computer Engineering Technology"
+  title = "B.S. in Electronic and Computer Engineering Technology"
+  company = "University of Dayton"
   company_url = ""
   location = "Dayton, OH, USA"
   date_start = "2015-07-01"
@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Shanghai Normal University"
-  company = "B.S. in Electrical Engineering"
+  title = "B.S. in Electrical Engineering"
+  company = "Shanghai Normal University"
   company_url = ""
   location = "Shanghai, China"
   date_start = "2012-09-01"
