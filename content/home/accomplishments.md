@@ -43,7 +43,7 @@ item:
   
 - certificate_url: ""
   date_end: ""
-  date_start: "2016-05-01"
+  date_start: "2016-05-05"
   description: ""
   organization: University of Dayton
   organization_url: ""
@@ -52,11 +52,11 @@ item:
   
 - certificate_url: ""
   date_end: ""
-  date_start: "2016-06-16"
+  date_start: "2016-05-01"
   description: ""
   organization: University of Dayton
   organization_url: ""
-  title: 'Named to Spring 2016 Dean list'
+  title: 'Named to Spring 2016 Dean's list'
   url: "https://meritpages.com/jielun"
 
 - certificate_url: ""
@@ -65,6 +65,6 @@ item:
   description: ""
   organization: University of Dayton
   organization_url: ""
-  title: 'Named to Fall 2015 Dean`s list'
+  title: 'Named to Fall 2015 Dean's list'
   url: "https://meritpages.com/jielun"
 ---
