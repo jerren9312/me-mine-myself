@@ -10,13 +10,21 @@ user_groups:
   - Visitors
 name: Jielun Zhang
 social:
+  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Jielun_Zhang
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jerrenz/
   - icon: envelope
     icon_pack: fas
-    link: mailto:jielunzhang1@gmail.com
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jerren9312
-email: jielunzhang1@gmail.com
+    link: mailto:zhangj46@udayton.edu
+
+    
+email: zhangj46@udayton.edu
 ---
 
 Hi, I am Jielun (Jerren) Zhang, a Ph.D. student in Electrical Engineering. My advisor is <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>, who also is the director of the Advanced Communications Network and Security (ACNS) Lab (<ins>[visit our lab](https://sites.google.com/a/udayton.edu/fye001)</ins>) I affiliate with. My research interests include traffic classification, Smart Networks, network security, and wireless communications.
