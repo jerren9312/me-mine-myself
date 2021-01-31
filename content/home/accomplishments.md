@@ -31,22 +31,25 @@ item:
   organization_url: ""
   title: Graduate Student Summer Fellowship (GSSF 2019)
   url: "https://ecommons.udayton.edu/stander_posters/1843/"
-- certificate_url: https://ecommons.udayton.edu/stander_posters/1532/
+  
+- certificate_url: ""
   date_end: ""
   date_start: "2018-04-01"
   description: Establish Reliable and Energy Efficient Public Safety Communication Networks using Future Smart Infrastructure
   organization: University of Dayton
   organization_url: ""
   title: Graduate Student Summer Fellowship (GSSF 2018)
-  url: https://udayton.edu
-- certificate_url: https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf
+  url: "https://ecommons.udayton.edu/stander_posters/1532/"
+  
+- certificate_url: ""
   date_end: ""
   date_start: "2016-05-01"
   description: ""
   organization: University of Dayton
   organization_url: ""
   title: 'Graduated with Summa Cum Laude'
-  url: ""
+  url: "https://udayton.edu/fss/_resources/files/graduation/programs/UDMayCommProgram2016AllFinal.pdf"
+  
 - certificate_url: ""
   date_end: ""
   date_start: "2016-06-16"
@@ -54,7 +57,8 @@ item:
   organization: University of Dayton
   organization_url: ""
   title: 'Named to Spring 2016 Dean's List'
-  url: https://meritpages.com/jielun
+  url: "https://meritpages.com/jielun"
+  
 - certificate_url: ""
   date_end: ""
   date_start: "2016-01-15"
@@ -62,5 +66,5 @@ item:
   organization: University of Dayton
   organization_url: ""
   title: 'Named to Fall 2015 Dean's List'
-  url: https://meritpages.com/jielun 
+  url: "https://meritpages.com/jielun"
 ---
