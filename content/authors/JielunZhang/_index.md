@@ -16,7 +16,7 @@ name: Jielun Zhang
 social:
   - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=HmrulSwAAAAJ&hl=en&oi=ao
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Jielun_Zhang
