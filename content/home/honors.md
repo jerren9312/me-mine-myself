@@ -25,6 +25,15 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2021-04-15"
+  description: Granted proposal - Sustaining the Intelligence of AI-based Network Traffic Classifiers
+  organization: University of Dayton
+  organization_url: ""
+  title: Graduate Student Summer Fellowship (GSSF 2021)
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
   date_start: "2019-04-01"
   description: Granted proposal - A Learning-based Framework for Packet Classification and Network Traffic Flow Clustering in SDN Access Gateways
   organization: University of Dayton
