@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Dayton, OH, USA"
   date_start = "2018-08-24"
-  date_end = "2022-05-01"
+  date_end = "2022-12-15"
   description = """
   * Current cumulative GPA: 4.0
   * Advanced Communications Network and Security (ACNS) Lab (<ins>[visit](https://sites.google.com/a/udayton.edu/fye001)</ins>)
