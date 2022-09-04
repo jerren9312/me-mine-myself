@@ -1,7 +1,7 @@
 ---
 title: Network traffic clustering with QoS-awareness
 publication_types:
-  - "1"
+  - "0"
 authors:
   - Jielun Zhang
   - Fuhao Li
