@@ -3,7 +3,7 @@ superuser: true
 authors:
   - JielunZhang
 title: Jielun Zhang
-role: Ph.D. Student in Electrical Engineering
+role: Ph.D. Candidate in Electrical Engineering
 organizations:
 - name: University of Dayton
   url: https://udayton.edu
@@ -31,6 +31,6 @@ social:
 email: zhangj46@udayton.edu
 ---
 
-Hi, I am Jielun (Jerren) Zhang, a Ph.D. student in Electrical Engineering. My advisor is <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>, who is also the director of the Advanced Communications Network and Security (ACNS) Lab (<ins>[visit our lab](https://sites.google.com/a/udayton.edu/fye001)</ins>) I affiliate with. My research interests include AI in networking, traffic classification, network security, and sensors.
+Hi, I am Jielun (Jerren) Zhang, a Ph.D. candidate in Electrical Engineering. My advisor is <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>, who is also the director of the Advanced Communications Network and Security (ACNS) Lab (<ins>[visit our lab](https://sites.google.com/a/udayton.edu/fye001)</ins>) I affiliate with. My research interests include AI in networking, traffic classification, network security, and sensors.
 
-Last update @ 4/21/2022
+Last update @ 9/3/2022
