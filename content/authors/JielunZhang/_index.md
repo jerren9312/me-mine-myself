@@ -31,6 +31,4 @@ social:
 email: zhangj46@udayton.edu
 ---
 
-Hi, I am Jielun (Jerren) Zhang, a Ph.D. candidate in Electrical Engineering. My advisor is <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>, who is also the director of the Advanced Communications Network and Security (ACNS) Lab (<ins>[visit our lab](https://sites.google.com/a/udayton.edu/fye001)</ins>) I affiliate with. My research interests include AI in networking, traffic classification, network security, and sensors.
-
-Last update @ 9/3/2022
+Hi, I am Jielun (Jerren) Zhang, a PhD candidate in the Department of Electrical and Computer Engineering at the University of Dayton. My PhD advisor is <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>, who is also the director of the Advanced Communications Network and Security (ACNS) Lab (<ins>[visit our lab](https://sites.google.com/a/udayton.edu/fye001)</ins>) I affiliate with. My research interests include AI in networking, traffic classification, network security, and cyber security.
