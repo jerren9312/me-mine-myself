@@ -23,10 +23,11 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Dayton, OH, USA"
   date_start = "2018-08-24"
-  date_end = "2022-12-15"
+  date_end = "2023-08-07"
   description = """
   * Current cumulative GPA: 4.0
-  * Advanced Communications Network and Security (ACNS) Lab (<ins>[visit](https://sites.google.com/a/udayton.edu/fye001)</ins>)
+  * Dissertation: Sustaining the Performance of Artificial Intelligence in Networking Analytics
+  * Advanced Communications Network and Security (ACNS) Lab
   """
 
 [[experience]]
@@ -38,8 +39,8 @@ date_format = "Jan 2006"
   date_end = "2018-08-01"
   description = """
   * Cumulative GPA: 4.0
-  * Thesis (Advised by <ins>[Dr. Feng Ye](https://udayton.edu/directory/engineering/electrical_and_computer/ye-feng.php)</ins>): Application-Aware Traffic Prediction and User-Aware Quality-of-Experience Measurement in Smart Network
-  * Advanced Communications Network and Security (ACNS) Lab (<ins>[visit](https://sites.google.com/a/udayton.edu/fye001)</ins>)
+  * Thesis (Advised by <ins>[Dr. Feng Ye](https://ye.wiscweb.wisc.edu/people/)</ins>): Application-Aware Traffic Prediction and User-Aware Quality-of-Experience Measurement in Smart Network
+  * Advanced Communications Network and Security (ACNS) Lab
   """
   
 [[experience]]
